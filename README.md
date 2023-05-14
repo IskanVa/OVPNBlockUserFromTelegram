@@ -1,9 +1,9 @@
 # OVPNBlockUserFromTelegram
-This is the code for blocking OVPN certificates via Telegram bot, based on python-telegram-bot, do not judge strictly))
-
-Blocking occurs instantly, via telnet, the user immediately finds a connection to the server. Connected users access, a list of all certificates, a list of blocked users can also be obtained, and a user certificate unlock is also available.
-1. Change the paths where blocked certificates and working certificates are located.
-2. Pleased with public constructive comments, this is my first major python code)
+Это код для блокировки OVPN сертификатов через Telegram бота, на основе python-telegram-bot, не судите строго))
+Тесты происходили на Ubuntu 22
+Блокировка происходит моментально, через телнет пользователь сразу находит соединение с сервером. Также можно получить доступ подключенных пользователей, список всех сертификатов, список заблокированных пользователей, а также доступна разблокировка пользовательского сертификата.
+1. Измените пути, по которым находятся заблокированные сертификаты и рабочие сертификаты.
+2. Рад конструктивным комментариям
 
 config.ini
 
